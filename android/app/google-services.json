@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490026065686",
+    "project_id": "solid-dominion-385013",
+    "storage_bucket": "solid-dominion-385013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490026065686:android:dc46320f0a2799a678ba37",
+        "android_client_info": {
+          "package_name": "com.example.maphidol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490026065686-5543jafh2ksarcpslbghdii98obe15u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98KU_UQ1fVCF72t6RhCl7RdMDpMP-ggw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490026065686-5543jafh2ksarcpslbghdii98obe15u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
